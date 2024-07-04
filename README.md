@@ -3,7 +3,9 @@
 
 <img width="1470" alt="Screenshot 2024-07-05 at 2 11 37 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/3a5bb388-9ed9-4a7c-b5e5-80e6e58674b6">
 
-<img width="1470" alt="Screenshot 2024-07-05 at 2 11 55 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/dabbf475-dd71-4f23-96a6-913ebd6e26a2">
+
+<img width="1470" alt="Screenshot 2024-07-05 at 2 18 22 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/238663ea-5d2e-4961-a3f3-6e345e478edc">
+
 
 <img width="1470" alt="Screenshot 2024-07-05 at 2 12 01 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/a794b381-edd6-46c5-b0cf-4ccab65825b1">
 
