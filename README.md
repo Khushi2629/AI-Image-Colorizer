@@ -3,7 +3,11 @@
 
 <img width="1470" alt="Screenshot 2024-07-05 at 2 11 37 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/3a5bb388-9ed9-4a7c-b5e5-80e6e58674b6">
 
-[WhatsApp Video 2024-07-05 at 02.29.03.mp4.zip](https://github.com/user-attachments/files/16102859/WhatsApp.Video.2024-07-05.at.02.29.03.mp4.zip)
+
+
+https://github.com/Khushi2629/Image-Colorizer/assets/121286189/f52a5581-7168-440e-ab9e-2d6eaca043a6
+
+
 
 
 <img width="1470" alt="Screenshot 2024-07-05 at 2 11 55 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/a390ae5f-40cd-4d4d-ad2c-b013ea63cae3">
