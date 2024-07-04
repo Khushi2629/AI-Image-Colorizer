@@ -27,12 +27,23 @@ https://github.com/Khushi2629/Image-Colorizer/assets/121286189/f52a5581-7168-440
 
 
 
+
+
+
+
 <img width="1470" alt="Screenshot 2024-07-03 at 1 01 50 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/2d7025ae-aa8d-4af5-b108-02d65b8052cf">
 
 <img width="1470" alt="Screenshot 2024-07-03 at 1 02 47 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/9512cd65-8c5d-480b-adaf-e6c56c0f26b1">
 
-<img width="1470" alt="Screenshot 2024-07-03 at 1 04 13 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/5e99
-<img width="1470" alt="Screenshot 2024-07-03 at 1 00 05 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/df6656a1-2c1f-4e65-9fd8-ec90f1eeeac9">
+
+
+
+
+
+
+
+
+
 
 
 
