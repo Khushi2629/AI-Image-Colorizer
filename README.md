@@ -33,7 +33,7 @@ https://github.com/Khushi2629/Image-Colorizer/assets/121286189/f52a5581-7168-440
 
 <img width="1470" alt="Screenshot 2024-07-03 at 1 04 13 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/5e99
 <img width="1470" alt="Screenshot 2024-07-03 at 1 00 05 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/df6656a1-2c1f-4e65-9fd8-ec90f1eeeac9">
-5090-7824-45c0-bbfd-20c63774610a">
+
 
 
 
