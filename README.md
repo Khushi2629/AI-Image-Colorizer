@@ -7,7 +7,7 @@
 <img width="1470" alt="Screenshot 2024-07-05 at 2 18 22 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/238663ea-5d2e-4961-a3f3-6e345e478edc">
 
 
-<img width="1470" alt="Screenshot 2024-07-05 at 2 12 01 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/a794b381-edd6-46c5-b0cf-4ccab65825b1">
+
 
 <img width="1470" alt="Screenshot 2024-07-05 at 2 12 24 AM" src="https://github.com/Khushi2629/Image-Colorizer/assets/121286189/e9d10759-8d63-47fd-8a44-046e053af881">
 
